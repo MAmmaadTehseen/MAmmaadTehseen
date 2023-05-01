@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on *MYSELF*
+🔭 I’m currently working on ***MYSELF***
 
 🌱 I’m currently learning c#
 

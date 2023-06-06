@@ -1,7 +1,8 @@
 # 💫About Me  :
 🔭 I’m currently working on ***MYSELF***
 
-🌱 I’m currently learning c#
+🌱 I’m currently learning Web Ddevelopment
+
 
 👨‍💻 All of my projects are available at https://github.com/MAmmaadTehseen
 
